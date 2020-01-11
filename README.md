@@ -3,7 +3,7 @@
 * 7월1일 출발
 * 구떼 노말루트
 # 구떼루트(노멀루트, The Gouter route)
-* ![구떼 등정코스](MontBlanc1.gif)
+* ![구떼 등정코스](montblanc1.gif)
 * SaintGervais - Nid d'Aigle - Tete Rousse - Aiguille du Gouter (Gouter hut) - Dome duGouter - Vallot - Arete des Bosses - Mont-Blanc
 구떼루트는 가장 많이 이용하는 루트이고, 타 루트에 비하여 다소 쉬운 루트이다. 레 우쉬(Les Houches)에서 벨뷔(Bellevue, 1794m)까지는 케이블카를 타고 오르고, 벨뷔에서 니데글(Nid d'Aigle,2372m)까지는 산악열차(Tram)를 주로 이용한다. 벨뷔에서 걸어서 떼떼 산장으로 가는 팀도 있다. 생 제르배(Saint-Gervais)에서 Tram을 타고 바로 니데글로 올라가갈 수도 있다. 니데글에서 구떼 산장(3817m)까지 오르는 데는 약 5시간 정도 소요된다. 구떼 산장에서 1박을 하고 오전 3시에 정상 공격을 한다. 대체적으로 동이 터올 무렵이면 정상에 도착할 수 있다.
 * 장점  
