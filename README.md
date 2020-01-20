@@ -1,7 +1,7 @@
 # MontBlanc
 * 4807m
 * 7월1일 출발
-* 구떼 노말루트
+* 등방예정 코드: 구떼 노말루트
 # 구떼루트(노멀루트, The Gouter route)
 ![구떼 등정코스](montblanc1.gif)
 
