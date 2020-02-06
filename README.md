@@ -100,3 +100,6 @@
 * [알프스 몽블랑 등반 까다로워졌다](http://www.mountainjournal.co.kr/news/articleView.html?idxno=423)
 * [몽블랑 등정 준비](http://m.blog.daum.net/ldc12/837997?tp_nil_a=1)
 * [몽블랑 등반 루트](http://blog.naver.com/ljkim65/220929517533)
+
+# 장비
+* [크램폰](http://jrsports.net/product/?cate_mode=view&no=10865&lcate=364&schKeyword=&reSearchKeyword=)
