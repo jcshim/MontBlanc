@@ -103,4 +103,5 @@
 * [잡동사니](http://blog.daum.net/njh0415/6928336)
 
 # 장비
+* [크램폰 petzl(vasak)을 추천합니다. 가격은 50% 세일해서 15만원](https://www.amazon.com/PETZL-Crampons-Touring-Glacier-Leverlock/dp/B01D1SOUWQ/ref=sr_1_20?dchild=1&keywords=petzl%28vasak%29&qid=1581087102&sr=8-20)
 * [크램폰](http://jrsports.net/product/?cate_mode=view&no=10865&lcate=364&schKeyword=&reSearchKeyword=)
